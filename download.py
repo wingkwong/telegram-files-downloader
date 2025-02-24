@@ -3,10 +3,10 @@
 from telethon.sync import TelegramClient
 import click
 
-__author__ = "WONG, Wing Kam"
+__author__ = "WK Wong"
 __license__ = "MIT"
 __version__ = "0.1.0"
-__maintainer__ = "WONG, Wing Kam"
+__maintainer__ = "WK Wong"
 __email__ = "wingkwong.code@gmail.com"
 
 @click.command()

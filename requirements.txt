@@ -1,2 +1,2 @@
 Telethon==1.39.0
-Click==7.0
+Click==7.1.2
